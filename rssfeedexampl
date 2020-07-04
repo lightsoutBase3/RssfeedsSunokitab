@@ -1,0 +1,312 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <!--general stuff-->
+        <title><![CDATA[NCERT Class 3 English]]></title>
+        <description><![CDATA[NCERT Class 3 English]]></description>
+        <link>
+        http://www.podcasts.com/ncert-class-3-english-771254e44</link>
+        <language>en-US</language>
+        <copyright>Copyright 2020</copyright>
+        <lastBuildDate>Sat, 04 Jul 2020 06:17:35 -0400</lastBuildDate>
+        <pubDate>Sat, 04 Jul 2020 06:17:35 -0400</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+                <webMaster><![CDATA[support@podcasts.com ()]]></webMaster>
+
+        <!--itunes stuff-->
+                <itunes:subtitle><![CDATA[NCERT]]></itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[]]>
+        </itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3.amazonaws.com/podcasts-image-uploads/20200701_162640_0002.png"/>
+        <itunes:category
+                text="Education"></itunes:category>
+
+        <!--episode-->
+                        <item>
+                    <title><![CDATA[Ch 10 How Creatures Move and The Ship of the Desert]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-10-How-Creatures-Move-and-The-Ship-of-the-Desert-6b46</link>
+                    <guid>http://awscdn.podcasts.com/Ch-10-How-Creatures-Move-and-The-Ship-of-the-Desert-6b46.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-10-How-Creatures-Move-and-The-Ship-of-the-Desert-6b46.mp3"
+                               length="13702656"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:17:10 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit is dedicated to different animals and their qualities.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>28:52</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 9 Donâ€™t Tell and He is My Brother]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-9-Dont-Tell-and-He-is-My-Brother-c944</link>
+                    <guid>http://awscdn.podcasts.com/Ch-9-Dont-Tell-and-He-is-My-Brother-c944.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-9-Dont-Tell-and-He-is-My-Brother-c944.mp3"
+                               length="12169052"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:13:48 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit is dedicated to children who want to or have to act like grown-ups.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:10</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 8 Whatâ€™s in the Mailbox? and My Silly Sister]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-8-Whats-in-the-Mailbox-and-My-Silly-Sister-c849</link>
+                    <guid>http://awscdn.podcasts.com/Ch-8-Whats-in-the-Mailbox-and-My-Silly-Sister-c849.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-8-Whats-in-the-Mailbox-and-My-Silly-Sister-c849.mp3"
+                               length="15688335"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:12:37 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit is dedicated to children.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>29:54</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 7 Puppy and I and Little Tiger, Big Tiger]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-7-Puppy-and-I-and-Little-Tiger-Big-Tiger-4800</link>
+                    <guid>http://awscdn.podcasts.com/Ch-7-Puppy-and-I-and-Little-Tiger-Big-Tiger-4800.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-7-Puppy-and-I-and-Little-Tiger-Big-Tiger-4800.mp3"
+                               length="17372201"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:09:17 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit deals with different types of animals (domestic and wild )                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>35:30</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 6 Trains and The Story of the Road]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-6-Trains-and-The-Story-of-the-Road-4917</link>
+                    <guid>http://awscdn.podcasts.com/Ch-6-Trains-and-The-Story-of-the-Road-4917.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-6-Trains-and-The-Story-of-the-Road-4917.mp3"
+                               length="13161718"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:06:22 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This chapter deals with means of transport (basically land)                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:42</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 5 The Balloon Man and The Yellow Butterfly]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-5-The-Balloon-Man-and-The-Yellow-Butterfly-8047</link>
+                    <guid>http://awscdn.podcasts.com/Ch-5-The-Balloon-Man-and-The-Yellow-Butterfly-8047.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-5-The-Balloon-Man-and-The-Yellow-Butterfly-8047.mp3"
+                               length="14570865"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 07:01:46 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit shows that the colors in nature make it look more beautiful.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:07</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 4 Sea Song and A Little Fish Story]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-4-Sea-Song-and-A-Little-Fish-Story-55b0</link>
+                    <guid>http://awscdn.podcasts.com/Ch-4-Sea-Song-and-A-Little-Fish-Story-55b0.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-4-Sea-Song-and-A-Little-Fish-Story-55b0.mp3"
+                               length="14219581"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 16 Jun 2020 06:57:34 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit shows the beauty of the sea and its creatures. We discuss seashells and fishes.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>27:03</itunes:duration>
+                    <itunes:keywords><![CDATA[English, RBSE, NCERT, education, summary, study material, Hindi, social science, science, SST, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 3 Little by Little and The Enormous Turnip]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-3-Little-by-Little-and-The-Enormous-Turnip-b930</link>
+                    <guid>http://awscdn.podcasts.com/Ch-3-Little-by-Little-and-The-Enormous-Turnip-b930.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-3-Little-by-Little-and-The-Enormous-Turnip-b930.mp3"
+                               length="16438385"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 14:48:55 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit is about the importance of trees and plants and teaches that we should love nature.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>31:58</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 2 Bird talk and nena and the baby sparrows]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-2-Little-by-Little-and-The-Enormous-Turnip-3ff6</link>
+                    <guid>http://awscdn.podcasts.com/Ch-2-Little-by-Little-and-The-Enormous-Turnip-3ff6.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-2-Little-by-Little-and-The-Enormous-Turnip-3ff6.mp3"
+                               length="16776817"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 02:27:24 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit is about the importance of trees and plants and teaches that we should love nature.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>30:07</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                                <item>
+                    <title><![CDATA[Ch 1 Good morning and the magic garden]]></title>
+                    <link>
+                    http://www.podcasts.com/ncert-class-3-english-771254e44                    /episode/Ch-1-Bird-Talk-and-Nina-and-the-Baby-Sparrows--7dc7</link>
+                    <guid>http://awscdn.podcasts.com/Ch-1-Bird-Talk-and-Nina-and-the-Baby-Sparrows--7dc7.mp3</guid>
+                    <description>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </description>
+                    <enclosure url="http://awscdn.podcasts.com/Ch-1-Bird-Talk-and-Nina-and-the-Baby-Sparrows--7dc7.mp3"
+                               length="12305306"
+                               type="audio/mpeg"/>
+                    <category><![CDATA[Education]]></category>
+                    <pubDate>Tue, 02 Jun 2020 02:26:15 -0400</pubDate>
+
+                    <itunes:author><![CDATA[]]></itunes:author>
+
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:subtitle>
+                        <![CDATA[This unit talks about the differences which we can see among various living beings in the nature.                         ]]>
+                    </itunes:subtitle>
+                    <itunes:summary>
+                        <![CDATA[Taught by Deeksha                        ]]>
+                    </itunes:summary>
+                    <itunes:duration>26:29</itunes:duration>
+                    <itunes:keywords><![CDATA[english, RBSE, NCERT, education, summary, study material, hindi, social science, science, sst, kids, story fun, NCERT Class 3 English]]>
+                    </itunes:keywords>
+
+                </item>
+                
+    </channel>
+
+</rss>
